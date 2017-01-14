@@ -1,0 +1,41 @@
+#firsth1{
+	color: blue;
+}
+
+
+#secondh1{
+	color: orange;
+}
+
+#thirdh1{
+	color: purple;
+}
+
+#MainTable{
+	margin-left: 400px;
+	border: thin solid pink;
+	padding-bottom: 20px;
+	height: 1000px;
+	background-color: green;
+}
+
+#test1 {
+	color: orange;
+}
+
+
+#test2 {
+	color: blue;
+}
+
+.dogpic{
+	height: 40vh;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#dograp{
+	height: 600px
+	width: 1000px
+	background-color: blue;
+}
